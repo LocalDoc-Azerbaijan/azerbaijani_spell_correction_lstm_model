@@ -18,8 +18,6 @@ This repository provides a PyTorch implementation of a character-level sequence-
 
 ---
 
-# Code Overview
-
 ## Model Architecture
 
 ### Encoder
